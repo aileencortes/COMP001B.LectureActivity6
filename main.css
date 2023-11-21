@@ -3,11 +3,11 @@ header{
     background-color: burlywood;
 }
 main{
- 
+ height: auto;
     background-color: bisque;
 }
 footer{
-   
+   height: 220px;
     background-color:rgb(244, 232, 215);
 }
 ul{
